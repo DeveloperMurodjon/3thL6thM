@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 function ExerciseTenth() {
-  const [isOn, setIsOn] = useState(true);
+  const [isOn, setIsOn] = useState(false);
 
   const toggleLight = () => {
     setIsOn((prev) => !prev);
