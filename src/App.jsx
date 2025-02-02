@@ -1,13 +1,13 @@
 import React from "react";
 import "./App.css";
 import ExerciseOne from "./components/exerciseOne/First.jsx";
-import ExerciseTwo from "./components/exerciseTwo/second.jsx";
+import ExerciseTwo from "./components/exerciseTwo/Second.jsx";
 import ExerciseThree from "./components/exerciseThree/Third.jsx";
 import ExerciseFour from "./components/exerciseFour/Fourth.jsx";
 import ExerciseSixth from "./components/exerciseSix/Sixth.jsx";
 import ExerciseSeventh from "./components/exerciseSeven/Seventh.jsx";
 import ExerciseNinth from "./components/exerciseNine/Ninth.jsx";
-import ExerciseTenth from "./components/exerciseTen/tenth.jsx";
+import ExerciseTenth from "./components/exerciseTen/Tenth.jsx";
 
 function App() {
   return (
