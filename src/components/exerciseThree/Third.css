@@ -1,0 +1,17 @@
+.ExThree p {
+  display: inline;
+}
+.ExThree button {
+  margin-right: 10px;
+  background-color: #ff9800;
+  color: #ffffff;
+  box-shadow: 0 4px 10px rgba(255, 152, 0, 0.4);
+}
+.ExThree button:hover {
+  background-color: #ffa726;
+  box-shadow: 0 6px 15px rgba(255, 152, 0, 0.6);
+}
+.ThreeTitle {
+  font-family: inherit;
+  display: inline-block;
+}

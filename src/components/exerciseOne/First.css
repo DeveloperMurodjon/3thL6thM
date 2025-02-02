@@ -1,0 +1,38 @@
+.numMassiv {
+  font-family: cursive;
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+.addBtn {
+  margin-right: 15px;
+  cursor: pointer;
+  background: linear-gradient(90deg, #04f00c, #044e04);
+  background-size: 200% 100%;
+  transition: background-position 0.5s ease-in-out, transform 0.3s ease-in-out;
+}
+.addBtn:hover {
+  background-position: -100% 0;
+  transform: scale(1.2);
+}
+.remBtn {
+  margin-right: 15px;
+  cursor: pointer;
+  background: linear-gradient(90deg, #ddf504, #6e6404);
+  background-size: 200% 100%;
+  transition: background-position 0.5s ease-in-out, transform 0.3s ease-in-out;
+}
+.remBtn:hover {
+  background-position: -100% 0;
+  transform: scale(1.2);
+}
+.clearBtn {
+  cursor: pointer;
+  background: linear-gradient(90deg, #f70303, #720303);
+  background-size: 200% 100%;
+  transition: background-position 0.5s ease-in-out, transform 0.3s ease-in-out;
+  margin-bottom: 20px;
+}
+.clearBtn:hover {
+  background-position: -100% 0;
+  transform: scale(1.2);
+}

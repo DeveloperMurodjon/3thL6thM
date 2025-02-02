@@ -1,0 +1,15 @@
+.fourth p {
+  color: #b2b3a4;
+  font-size: 16px;
+  font-weight: 600;
+}
+.fourth button {
+  color: #121212;
+  cursor: pointer;
+  background: linear-gradient(90deg, #1e3c72, #2a5298);
+  transition: all 0.3s ease-in-out;
+}
+.fourth button:hover {
+  background: linear-gradient(90deg, #2a5298, #1e3c72);
+  transform: scale(1.1);
+}
